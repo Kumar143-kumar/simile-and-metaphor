@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Figurative Insight</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Figurative Insight</div>
+            <ul class="nav-links">
+                <li><a href="{{ url_for('home') }}">HOME</a></li>
+                <li><a href="{{ url_for('about') }}">ABOUT</a></li>
+                <li><a href="{{ url_for('predict') }}">PREDICT</a></li>
+                <li><a href="{{ url_for('contact') }}">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        <p>© 2025 Figurative Insight | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="predict-container">
+    <h2>Predict Figurative Expression</h2>
+    <form method="POST" action="{{ url_for('predict') }}">
+        <input type="text" name="sentence" placeholder="Enter a sentence..." required>
+        <button type="submit" class="btn">Submit</button>
+    </form>
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% endif %}
+</div>
+{% endblock %}

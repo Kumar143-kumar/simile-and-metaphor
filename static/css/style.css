@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f6fa;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1e1f26;
+    padding: 15px 50px;
+    color: white;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    color: #00adb5;
+}
+
+/* Home Page */
+.home-section {
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.overlay h1 span {
+    color: #00adb5;
+}
+
+.btn {
+    background-color: #00adb5;
+    border: none;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #007b83;
+}
+
+/* About Page */
+.about-container {
+    display: flex;
+    padding: 50px;
+    gap: 30px;
+}
+
+.about-left video {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.about-right h2 {
+    color: #1e1f26;
+}
+
+/* Contact Page */
+.contact-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 20px auto;
+    gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.contact-info p {
+    font-size: 1.1em;
+}
+
+/* Predict Page */
+.predict-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.predict-container input {
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #aaa;
+    margin-bottom: 20px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+/* Result Page */
+.result-container {
+    text-align: center;
+    padding: 50px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #1e1f26;
+    color: white;
+    margin-top: 50px;
+}

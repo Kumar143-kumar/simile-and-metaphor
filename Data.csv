@@ -1,0 +1,392 @@
+Id,Sentence,Target
+1,The classroom was a zoo.,Metaphor
+2,The stars were diamonds in the sky.,Metaphor
+3,Time is a thief that steals our moments.,Metaphor
+4,Life is a journey with many paths.,Metaphor
+5,Her mind was a maze of thoughts.,Metaphor
+6,The wind whispered secrets through the trees.,Metaphor
+7,The night was a blanket covering the earth.,Metaphor
+8,Books are the keys to knowledge.,Metaphor
+9,The mountain stood as a silent guardian.,Metaphor
+10,"Her thoughts were butterflies, flitting around.",Metaphor
+11,His words were daggers.,Metaphor
+12,The city was a jungle of steel and concrete.,Metaphor
+13,His heart was a stone.,Metaphor
+14,Her smile was a ray of sunshine.,Metaphor
+15,The river was a ribbon of silver.,Metaphor
+16,The storm was a beast in the sky.,Metaphor
+17,The room was a sea of tension.,Metaphor
+18,The sun was a golden coin in the sky.,Metaphor
+19,His life was a book waiting to be written.,Metaphor
+20,Her eyes were windows to the soul.,Metaphor
+21,The future is a blank canvas.,Metaphor
+22,His anger was a fire.,Metaphor
+23,Her voice was music to his ears.,Metaphor
+24,The past is a foreign country.,Metaphor
+25,The house was a fortress.,Metaphor
+26,The garden was a paradise.,Metaphor
+27,The car was a beast on the road.,Metaphor
+28,His mind was a computer.,Metaphor
+29,Her love was a drug.,Metaphor
+30,The road was a ribbon of asphalt.,Metaphor
+31,His smile was a beacon of hope.,Metaphor
+32,The ocean was a mirror of the sky.,Metaphor
+33,Her eyes were pools of mystery.,Metaphor
+34,The sky was a canvas of colors.,Metaphor
+35,The city was a beehive of activity.,Metaphor
+36,His laughter was a symphony.,Metaphor
+37,Her tears were a river.,Metaphor
+38,The forest was a cathedral of trees.,Metaphor
+39,The desert was a sea of sand.,Metaphor
+40,The moon was a ghostly galleon.,Metaphor
+41,His touch was a whisper.,Metaphor
+42,The mountain was a giant.,Metaphor
+43,Her words were honey.,Metaphor
+44,The snow was a blanket of white.,Metaphor
+45,His eyes were black holes.,Metaphor
+46,The wind was a wolf howling in the night.,Metaphor
+47,The car was a rocket.,Metaphor
+48,The room was an oven.,Metaphor
+49,The rain was a curtain.,Metaphor
+50,His fists were hammers.,Metaphor
+51,Her hair was a waterfall.,Metaphor
+52,The sun was a furnace.,Metaphor
+53,The lake was a mirror.,Metaphor
+54,His soul was a dark forest.,Metaphor
+55,The sky was a dome of blue.,Metaphor
+56,The stars were lanterns in the sky.,Metaphor
+57,The forest was a maze.,Metaphor
+58,The river was a serpent.,Metaphor
+59,The mountain was a giant.,Metaphor
+60,Her eyes were stars.,Metaphor
+61,The ocean was a monster.,Metaphor
+62,The house was a cage.,Metaphor
+63,The car was a bullet.,Metaphor
+64,The wind was a lion.,Metaphor
+65,The city was a jungle.,Metaphor
+66,The desert was a furnace.,Metaphor
+67,The rain was a flood.,Metaphor
+68,The fire was a beast.,Metaphor
+69,The snow was a ghost.,Metaphor
+70,The storm was a giant.,Metaphor
+71,The sun was a torch.,Metaphor
+72,The moon was a pearl.,Metaphor
+73,The night was a cloak.,Metaphor
+74,The stars were jewels.,Metaphor
+75,The forest was a labyrinth.,Metaphor
+76,The river was a ribbon.,Metaphor
+77,The mountain was a fortress.,Metaphor
+78,Her eyes were flames.,Metaphor
+79,The ocean was a leviathan.,Metaphor
+80,The house was a prison.,Metaphor
+81,The car was a cheetah.,Metaphor
+82,The wind was a dragon.,Metaphor
+83,The city was a hive.,Metaphor
+84,The desert was a wasteland.,Metaphor
+85,The rain was a symphony.,Metaphor
+86,The fire was a phoenix.,Metaphor
+87,The snow was a dream.,Metaphor
+88,The storm was a fury.,Metaphor
+89,The sun was a god.,Metaphor
+90,The moon was a dream.,Metaphor
+91,The night was a phantom.,Metaphor
+92,The stars were beacons.,Metaphor
+93,The forest was a sanctuary.,Metaphor
+94,The river was a pathway.,Metaphor
+95,The mountain was a throne.,Metaphor
+96,Her eyes were oceans.,Metaphor
+97,The ocean was a cradle.,Metaphor
+98,The house was a palace.,Metaphor
+99,The car was a ship.,Metaphor
+100,The wind was a whisper.,Metaphor
+101,The city was a machine.,Metaphor
+102,The desert was an expanse.,Metaphor
+103,The rain was a dance.,Metaphor
+104,The fire was a spirit.,Metaphor
+105,The snow was a whisper.,Metaphor
+106,The storm was a battle.,Metaphor
+107,The sun was a gem.,Metaphor
+108,The moon was a coin.,Metaphor
+109,The night was a dream.,Metaphor
+110,The stars were friends.,Metaphor
+111,Her eyes were deep oceans,Metaphor
+112,His smile was sunshine,Metaphor
+113,The storm was a raging bull,Metaphor
+114,Her silence was a scream,Metaphor
+115,The night was a cloak,Metaphor
+116,His voice was thunder,Metaphor
+117,Her dreams were a playground,Metaphor
+118,The mountain was a giant,Metaphor
+119,The stars were eyes watching us,Metaphor
+120,The wind was a whisper,Metaphor
+121,Her skin was porcelain,Metaphor
+122,His courage was a lion,Metaphor
+123,The room was a furnace,Metaphor
+124,The desert was a sea of sand,Metaphor
+125,The forest was a green ocean,Metaphor
+126,The book was a journey,Metaphor
+127,Her hair was silk,Metaphor
+128,The fog was a ghost,Metaphor
+129,The fire was a beast,Metaphor
+130,His mind was a maze,Metaphor
+131,Her words were honey,Metaphor
+132,The car was a rocket,Metaphor
+133,The garden was a sanctuary,Metaphor
+134,The storm was a beast,Metaphor
+135,His love was a fire,Metaphor
+136,Her eyes were stars,Metaphor
+137,The rain was tears from heaven,Metaphor
+138,The tree was a tower,Metaphor
+139,The ocean was a mirror,Metaphor
+140,His hands were iron,Metaphor
+141,The sky was a canvas,Metaphor
+142,The ground was lava,Metaphor
+143,Her voice was velvet,Metaphor
+144,His gaze was ice,Metaphor
+145,The road was a snake,Metaphor
+146,The sun was a golden ball,Metaphor
+147,The city was a jungle,Metaphor
+148,Her touch was a feather,Metaphor
+149,His breath was a gale,Metaphor
+150,The meadow was a sea of flowers,Metaphor
+151,The night was an embrace,Metaphor
+152,Her heart was a wild horse,Metaphor
+153,The lake was a sheet of glass,Metaphor
+154,The music was a river,Metaphor
+155,The candle was a beacon,Metaphor
+156,The forest was an emerald sea,Metaphor
+157,The stars were beacons,Metaphor
+158,Her eyes were searchlights,Metaphor
+159,The desert was a barren ocean,Metaphor
+160,His laugh was a bellow,Metaphor
+161,As brave as a lion,Simile
+162,As busy as a bee,Simile
+163,As clear as crystal,Simile
+164,As cool as a cucumber,Simile
+165,As cunning as a fox,Simile
+166,As cute as a button,Simile
+167,As easy as pie,Simile
+168,As fast as lightning,Simile
+169,As gentle as a lamb,Simile
+170,As good as gold,Simile
+171,As light as a feather,Simile
+172,As quick as a wink,Simile
+173,As sly as a fox,Simile
+174,As strong as an ox,Simile
+175,As sweet as honey,Simile
+176,As white as snow,Simile
+177,As wise as an owl,Simile
+178,As snug as a bug in a rug,Simile
+179,As steady as a rock,Simile
+180,As stubborn as a mule,Simile
+181,As tall as a giraffe,Simile
+182,As tough as nails,Simile
+183,As quiet as a mouse,Simile
+184,As sharp as a tack,Simile
+185,As slippery as an eel,Simile
+186,As slow as molasses,Simile
+187,As soft as silk,Simile
+188,As swift as a deer,Simile
+189,As tough as old boots,Simile
+190,As warm as toast,Simile
+191,As white as a ghost,Simile
+192,As wise as an owl,Simile
+193,As yellow as a coward,Simile
+194,As light as a feather,Simile
+195,As quiet as a mouse,Simile
+196,As sharp as a tack,Simile
+197,As slippery as an eel,Simile
+198,As slow as molasses,Simile
+199,As soft as silk,Simile
+200,As swift as a deer,Simile
+201,As tough as old boots,Simile
+202,As warm as toast,Simile
+203,As white as a ghost,Simile
+204,As wise as an owl,Simile
+205,As yellow as a coward,Simile
+206,As easy as shooting fish in a barrel,Simile
+207,As happy as a clam,Simile
+208,As old as the hills,Simile
+209,As pleased as punch,Simile
+210,As pure as the driven snow,Simile
+211,As red as a beet,Simile
+212,As sharp as a razor,Simile
+213,As snug as a bug in a rug,Simile
+214,As solid as a rock,Simile
+215,As straight as an arrow,Simile
+216,As thick as thieves,Simile
+217,As tough as leather,Simile
+218,As warm as wool,Simile
+219,As wild as the wind,Simile
+220,As wise as Solomon,Simile
+221,Blind as a bat,Simile
+222,Bold as brass,Simile
+223,Busy as a beaver,Simile
+224,Calm as a cucumber,Simile
+225,Clean as a whistle,Simile
+226,Clear as a bell,Simile
+227,Cold as ice,Simile
+228,Cool as a cucumber,Simile
+229,Crazy like a fox,Simile
+230,Cute as a button,Simile
+231,Dead as a doornail,Simile
+232,Dumb as a doorknob,Simile
+233,Eager as a beaver,Simile
+234,Eats like a bird,Simile
+235,Face like a bulldog chewing a wasp,Simile
+236,Fat as a pig,Simile
+237,Fit as a fiddle,Simile
+238,Flat as a pancake,Simile
+239,Free as a bird,Simile
+240,Fresh as a daisy,Simile
+241,Funny as a barrel of monkeys,Simile
+242,Gentle as a lamb,Simile
+243,Giddy as a schoolgirl,Simile
+244,Happy as a clam,Simile
+245,High as a kite,Simile
+246,Hungry as a bear,Simile
+247,Innocent as a lamb,Simile
+248,Lively as a cricket,Simile
+249,Loose as a goose,Simile
+250,Lucky as a dog with two tails,Simile
+251,Mad as a hornet,Simile
+252,Mean as a junkyard dog,Simile
+253,Neat as a pin,Simile
+254,Nervous as a long-tailed cat in a room full of rocking chairs,Simile
+255,Nice as pie,Simile
+256,Nutty as a fruitcake,Simile
+257,Old as dirt,Simile
+258,Proud as a peacock,Simile
+259,Quiet as a mouse,Simile
+260,Quick as a flash,Simile
+261,Rich as Croesus,Simile
+262,Right as rain,Simile
+263,Rotten as a pear,Simile
+264,Scared as a rabbit,Simile
+265,Sharp as a tack,Simile
+266,Shy as a rabbit,Simile
+267,Sick as a dog,Simile
+268,Silly as a goose,Simile
+269,Slow as molasses,Simile
+270,Smooth as silk,Simile
+271,Sneaky as a snake,Simile
+272,Soft as a feather,Simile
+273,Solid as a rock,Simile
+274,Steady as a rock,Simile
+275,Straight as an arrow,Simile
+276,Stupid as a rock,Simile
+277,Sweet as honey,Simile
+278,Swift as the wind,Simile
+279,Tall as a giraffe,Simile
+280,Tame as a pet,Simile
+281,Tender as a lamb,Simile
+282,Thick as a brick,Simile
+283,Tough as nails,Simile
+284,Warm as toast,Simile
+285,Wicked as sin,Simile
+286,Wild as a buck,Simile
+287,Wise as an owl,Simile
+288,Witty as a comedian,Simile
+289,Woolly as a mammoth,Simile
+290,Yellow as a coward,Simile
+291,Her eyes sparkled like diamonds.,Simile
+292,He ran as fast as a cheetah.,Simile
+293,Her voice was as sweet as honey.,Simile
+294,His temper was like a storm.,Simile
+295,The car roared like a lion.,Simile
+296,He fought like a tiger in the ring.,Simile
+297,She was as brave as a warrior.,Simile
+298,His smile was as bright as the sun.,Simile
+299,She danced like a leaf in the wind.,Simile
+300,He was as sly as a fox.,Simile
+301,The music flowed like a river.,Simile
+302,She laughed like a hyena.,Simile
+303,The rain was like a shower of stars.,Simile
+304,Her hair shone like gold.,Simile
+305,He was as tough as steel.,Simile
+306,Her words were as soft as silk.,Simile
+307,The waves crashed like thunder.,Simile
+308,His mind worked as quickly as lightning.,Simile
+309,The light flickered like a candle in the wind.,Simile
+310,She moved as gracefully as a swan.,Simile
+311,The night was as dark as coal.,Simile
+312,The ground was as hard as rock.,Simile
+313,He was as quiet as a mouse.,Simile
+314,Her skin was as smooth as silk.,Simile
+315,His breath was as cold as ice.,Simile
+316,The children were as noisy as a circus.,Simile
+317,Her dress fluttered like butterfly wings.,Simile
+318,His voice was as deep as the ocean.,Simile
+319,The stars twinkled like fairy lights.,Simile
+320,The car moved as slow as a snail.,Simile
+321,Her eyes were as bright as stars.,Simile
+322,The flowers bloomed like fireworks.,Simile
+323,He was as stubborn as a mule.,Simile
+324,Her smile was as bright as a summer day.,Simile
+325,The house was as silent as a grave.,Simile
+326,The air was as fresh as a daisy.,Simile
+327,The dog was as gentle as a lamb.,Simile
+328,The baby slept like an angel.,Simile
+329,His hair was as black as coal.,Simile
+330,The river was as clear as crystal.,Simile
+331,Her lips were as red as a rose.,Simile
+332,The mountain was as tall as a giant.,Simile
+333,The lake was as calm as a mirror.,Simile
+334,Her eyes shone like emeralds.,Simile
+335,His skin was as pale as snow.,Simile
+336,The forest was as dense as a jungle.,Simile
+337,The desert was as barren as the moon.,Simile
+338,The wind was as fierce as a lion.,Simile
+339,The city was as busy as a beehive.,Simile
+340,Her voice was as clear as a bell.,Simile
+341,The sunset was as beautiful as a painting.,Simile
+342,The grass was as green as emeralds.,Simile
+343,The ice was as slippery as an eel.,Simile
+344,The fish were as colorful as a rainbow.,Simile
+345,His eyes were as blue as the sky.,Simile
+346,The cake was as light as a feather.,Simile
+347,Her hair was as white as snow.,Simile
+348,The old man was as wise as an owl.,Simile
+349,The cat was as curious as a detective.,Simile
+350,The clouds were as fluffy as cotton.,Simile
+351,Her laugh was as musical as chimes.,Simile
+352,The fruit was as sweet as candy.,Simile
+353,The storm was as loud as a battle.,Simile
+354,The snow was as soft as a blanket.,Simile
+355,The tree was as strong as an oak.,Simile
+356,The sun was as hot as a furnace.,Simile
+357,Her eyes were as green as grass.,Simile
+358,The water was as blue as the sky.,Simile
+359,The fire was as hot as the sun.,Simile
+360,The wind was as cold as ice.,Simile
+361,The stars were as numerous as grains of sand.,Simile
+362,Her cheeks were as red as apples.,Simile
+363,The night was as black as ink.,Simile
+364,His voice was as soft as a whisper.,Simile
+365,The flowers were as fragrant as perfume.,Simile
+366,The day was as bright as the sun.,Simile
+367,The kitten was as playful as a child.,Simile
+368,Her eyes sparkled like sapphires.,Simile
+369,The food was as spicy as fire.,Simile
+370,The ground was as dry as a bone.,Simile
+371,The moon was as white as milk.,Simile
+372,The rain was as gentle as a kiss.,Simile
+373,The sky was as clear as glass.,Simile
+374,Her skin was as white as alabaster.,Simile
+375,The car was as old as time.,Simile
+376,The baby was as happy as a lark.,Simile
+377,The sea was as rough as a storm.,Simile
+378,His voice was as loud as thunder.,Simile
+379,The flower was as delicate as a butterfly.,Simile
+380,The grass was as wet as dew.,Simile
+381,Her smile was as bright as a diamond.,Simile
+382,The river was as calm as a pond.,Simile
+383,The hill was as steep as a cliff.,Simile
+384,The wind was as gentle as a breeze.,Simile
+385,The sky was as dark as midnight.,Simile
+386,The sand was as hot as fire.,Simile
+387,Her eyes were as wide as saucers.,Simile
+388,The tree was as tall as a skyscraper.,Simile
+389,The car was as fast as lightning.,Simile
+390,The sun was as bright as gold.,Simile
+391,The dog was as playful as a puppy.,Simile
